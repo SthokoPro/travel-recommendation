@@ -1,0 +1,45 @@
+{
+  "beaches": [
+    {
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "description": "A beautiful beach destination known for clear blue water and luxury island resorts."
+    },
+    {
+      "name": "Anse Source d'Argent, Seychelles",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5",
+      "description": "A peaceful beach with white sand, turquoise water, and granite rock formations."
+    }
+  ],
+
+  "temples": [
+    {
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e",
+      "description": "A historic temple complex and one of the most famous cultural landmarks in the world."
+    },
+    {
+      "name": "Kinkaku-ji, Japan",
+      "imageUrl": "https://images.unsplash.com/photo-1528360983277-13d401cdc186",
+      "description": "A golden temple in Kyoto surrounded by beautiful gardens and calm water."
+    }
+  ],
+
+  "countries": [
+    {
+      "name": "Japan",
+      "cities": [
+        {
+          "name": "Tokyo",
+          "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
+          "description": "A modern city known for technology, food, shopping, and culture."
+        },
+        {
+          "name": "Kyoto",
+          "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+          "description": "A cultural city famous for temples, traditional streets, and cherry blossoms."
+        }
+      ]
+    }
+  ]
+}
